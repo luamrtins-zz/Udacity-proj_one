@@ -1,8 +1,8 @@
 <h1>Project_One:  Berlin Airbnb Data </h1>
 <h2>Project Overview</h2>
-<p>This project is part of Udacity's Data Science Nanodegree. This project aims to create a blog post and Github repository to
-begin building a data science portfolio of my own. For that, I choose Kaggle's Berlin Airbnb Data and
+<p>This project is part of Udacity's Data Science Nanodegree. This project aims to create a blog post and Github repository to begin building a data science portfolio of my own. For that, I choose Kaggle's Berlin Airbnb Data and
 followed the CRISP-DM process to conduct my analyze.</p>
+<p>The blog post can be access here: https://medium.com/@luisaamartins10/top-5-berlins-neighborhoods-listings-on-airbnb-c1a631b7ec1d. </p>
 <h2>Installation and libraries</h2>
   The csv file, listings_summary, used on this project can be found on this link: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data. The existence of this file on the directory of this project is fundamental to its execution. The python version used is 3.6.
   <p> Python Packages used in the project: </p>

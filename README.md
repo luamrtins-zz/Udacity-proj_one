@@ -15,7 +15,7 @@ followed the CRISP-DM process to conduct my analyze.</p>
 <h2>Project Motivation</h2>
 <p>The motivation for this project was to answer the questions below:
 <ul>
-  <li> 1. Does the neighborhoods with more listings have a lower average price? </li> 
+  <li> 1. Do the neighborhoods with more listings have a lower average price? </li> 
   <li> 2. What the correlation between neighborhoods, reviews and price?</li>
   <li> 3. The distance of listing from the Berlin's downtown is directly related to the price? What about number of reviews?</li>
   <li> 4. Can you predict the price of Berlin's listings?</li>
